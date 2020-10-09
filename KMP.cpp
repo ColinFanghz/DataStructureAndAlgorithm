@@ -3,7 +3,7 @@
 
 using namespace std;
 
-// 这里最后返回的是next数组
+// Get the next array
 int* getNext(string p)
 {
 	int* next = new int[p.length()];
