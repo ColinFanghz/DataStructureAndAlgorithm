@@ -55,7 +55,7 @@ int KMP(string T, string p)
 
 int main()
 {
-	string S = "ColinFang is a idiot";
+	string S = "ColinFang is an idiot";
 	string T = "Fang";
 
 	cout<<KMP(S,T)<<endl;
